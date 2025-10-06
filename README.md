@@ -118,7 +118,7 @@ npm run lint         # Run ESLint
 
 **Gaurav Singh**
 - GitHub: [@singh-gaurav04](https://github.com/singh-gaurav04)
-- LinkedIn: [](https://www.linkedin.com/in/gaurav26lnct/)
+- LinkedIn: [@gaurav26lnct](https://www.linkedin.com/in/gaurav26lnct/)
 
 ## 🙏 Acknowledgments
 
