@@ -26,7 +26,7 @@ A modern, voice-controlled speech-to-text application built with React and the W
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/singh-gaurav04/speech_to_text.git>
    cd speech-to-text
    ```
 
@@ -114,32 +114,11 @@ npm run lint         # Run ESLint
 - **Language Learning**: Practice pronunciation and transcription
 - **Hands-free Computing**: Voice control for various applications
 
-## 🚧 Future Enhancements
-
-- [ ] Multiple language support
-- [ ] Export to different formats (PDF, DOCX)
-- [ ] Voice command customization
-- [ ] Offline mode with local processing
-- [ ] Text editing and formatting
-- [ ] Integration with cloud services
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 **Gaurav Singh**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@singh-gaurav04](https://github.com/singh-gaurav04)
+- LinkedIn: [](https://www.linkedin.com/in/gaurav26lnct/)
 
 ## 🙏 Acknowledgments
 
@@ -149,5 +128,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Lucide React](https://lucide.dev/) for icons
 
 ---
-
-⭐ **Star this repository if you found it helpful!**
