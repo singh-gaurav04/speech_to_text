@@ -1,6 +1,6 @@
 # 🎤 Speech-to-Text Application
 
-- Demo: [Video](/public/speech_to_text.mov))
+- Demo: [Video](/public/speech_to_text.mov)
 
 A modern, voice-controlled speech-to-text application built with React and the Web Speech API. This application provides real-time transcription with a beautiful, responsive UI and hands-free operation.
 
