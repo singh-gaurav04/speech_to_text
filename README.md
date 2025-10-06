@@ -1,5 +1,7 @@
 # 🎤 Speech-to-Text Application
 
+- Demo: [Video](/public/speech_to_text.mov))
+
 A modern, voice-controlled speech-to-text application built with React and the Web Speech API. This application provides real-time transcription with a beautiful, responsive UI and hands-free operation.
 
 ![Speech-to-Text App](https://img.shields.io/badge/React-19.1.1-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.14-38B2AC) ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF)

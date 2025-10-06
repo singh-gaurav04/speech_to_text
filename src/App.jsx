@@ -50,8 +50,6 @@ const App = () => {
             } if(words.includes('bye') || words.includes('stop')) {
                 console.log('Stopping transcribing...');
                 setIsTranscribing(false);
-                resetTranscript();
-                
             }
         }
     }, [transcript]);
